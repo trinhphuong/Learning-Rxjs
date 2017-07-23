@@ -1,0 +1,30 @@
+{
+  "name": "learning-rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trinhphuong/Learning-Rxjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trinhphuong/Learning-Rxjs/issues"
+  },
+  "homepage": "https://github.com/trinhphuong/Learning-Rxjs#readme",
+  "dependencies": {
+    "rxjs": "^5.4.2"
+  },
+  "devDependencies": {
+    "loglevel": "^1.4.1",
+    "ts-loader": "^2.3.1",
+    "typescript": "^2.4.2",
+    "typings": "^2.1.1",
+    "webpack": "^3.3.0",
+    "webpack-dev-server": "^2.6.0"
+  }
+}
